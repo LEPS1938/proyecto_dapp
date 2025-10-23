@@ -1,0 +1,20 @@
+#load_ui_productos.py
+    '''
+        Uso de pyqt5 y configuración de todo nuestro ui
+    '''
+#conexionbd.py
+    '''
+        Uso de pyodbc para establecer y cerrar conexión con la base de datos
+    '''
+#producto.py
+    '''
+        Declaración de la clase producto y el metodo de inicialización
+    '''
+#productodao.py
+    '''
+        Declaración de la clase ProductoDAO que permita acceder a nuestros datos
+    '''
+#main.py
+    ''' 
+        Programa principal
+    '''
